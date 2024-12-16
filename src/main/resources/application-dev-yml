@@ -1,0 +1,8 @@
+#Server
+SERVER_PORT: 9000
+ACTIVE_PROFILE: dev
+
+#Email Address
+
+EMAIL_HOST: s
+
